@@ -70,4 +70,4 @@ These are the standard IRC message as a client.
 As you connect to the server sucessfully, you will see the magic message. 
 Below is the screenshot of weechat user interface.
 Wish you having fun with our server!
-    ![](https://hackmd.io/_uploads/HJXohTxhn.png)
+![](https://hackmd.io/_uploads/HJXohTxhn.png)
