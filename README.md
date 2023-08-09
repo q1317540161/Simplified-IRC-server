@@ -1,3 +1,4 @@
+# Simpilified IRC server
 This server is implemented based on [RFC-1459](https://datatracker.ietf.org/doc/html/rfc1459). It provides clients to communicate using IRC standard client application (e.g. [WeeChat](https://weechat.org/)). 
 Following shows how to use WeeChat as a client to interact with others. You can also use `nc` as a client to connect to the server to see the raw message from the server.
 
